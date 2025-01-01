@@ -1,0 +1,10 @@
+{
+    "template_names": ["YouTube", "youtube.com"],
+    "templates": {
+        "thanks": "Thank you for watching! Don't forget to like and subscribe for more content.",
+        "intro": "Hey everyone! Welcome back to my channel.",
+        "comment": "Thanks for your comment! Really appreciate your feedback.",
+        "timestamps": "Timestamps:\n0:00 - Intro\n1:30 - Main Topic\n5:00 - Summary\n6:00 - Outro",
+        "pinned": "Pinned comment: Thanks for watching! Let me know your thoughts in the comments below 👇"
+    }
+}
